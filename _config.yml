@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Xubo Zhang"
   avatar           : "profile.png"
-  bio              : "Assistant Scientist"
-  location         : "South China Sea Institute of Oceanology, <br />Chinese Academy of Sciences, <br />China"
+  bio              : "Assistant Scientist<br />South China Sea Institute of Oceanology<br />Chinese Academy of Sciences"
+  location         : "Guangzhou, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=DSYW9cUAAAAJ&hl=zh-CN"
