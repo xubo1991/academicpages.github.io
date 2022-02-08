@@ -8,5 +8,5 @@ redirect_from:
 ---
 {% include base_path %}
 
-## Tectonic and magmatic evolution of the marginal seas
+Tectonic and magmatic evolution of the marginal seas
 ======
