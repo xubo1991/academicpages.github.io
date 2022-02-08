@@ -16,4 +16,4 @@ Education
 
 Professional Appointments
 ======
-* 2019-Now, Assistant scientist, Key Laboratory of Ocean and Marginal Sea Geology, South China Sea Institute of Oceanology, Chinese Academy of Sciences
+* 2019-Now, Assistant scientist, South China Sea Institute of Oceanology, Chinese Academy of Sciences
