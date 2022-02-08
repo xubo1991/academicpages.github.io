@@ -6,8 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-You can find my articles on <a href="https://scholar.google.com/citations?user=DSYW9cUAAAAJ&hl=en" target='_blank'>Google Scholar</a> or
-<a href="https://www.researchgate.net/profile/Xubo-Zhang-2" target='_blank'>ResearchGate</a>.
+You can find my articles on <a href="https://scholar.google.com/citations?user=DSYW9cUAAAAJ&hl=en">Google Scholar</a> or <a href="https://www.researchgate.net/profile/Xubo-Zhang-2">ResearchGate</a>.
 
 <!-- 
 {% if author.googlescholar %}
