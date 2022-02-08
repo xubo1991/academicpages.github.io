@@ -8,17 +8,13 @@ redirect_from:
 ---
 {% include base_path %}
 
-Tectonic and magmatic evolution of the marginal seas
-======
+## Tectonic and magmatic evolution of the marginal seas
 * South China Sea
 
-Fluid dynamics of seafloor hydrothermal plumes
-======
+## Fluid dynamics of seafloor hydrothermal plumes
 * East Pacific Rise
 * Mid-Atlantic Ridge
 
-Mid-ocean ridge and transform fault system
-======
+## Mid-ocean ridge and transform fault system
 
-Subduction zone
-======
+## Subduction zone
