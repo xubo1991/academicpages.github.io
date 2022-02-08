@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,5 +11,5 @@ redirect_from:
 
 Education
 ======
-* B.S. in Geology, Tongji University, 2013
-* Ph.D in Geophysics, Tongji University, 2019
+* 2009-2013    B.S. in Geology, Tongji University
+* 2013-2019    Ph.D in Geophysics, Tongji University, 2019
