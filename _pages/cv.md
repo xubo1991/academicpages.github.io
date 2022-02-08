@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * 2009-2013, B.S. in Geology, Tongji University
-* <br/>2013-2019, Ph.D in Geophysics, Tongji University<br/>
-  <br/>Advisors: Jian Lin 
+* 2013-2019, Ph.D in Geophysics, Tongji University
+  Advisors: Jian Lin
 
 Professional Appointments
 ======
